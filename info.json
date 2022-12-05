@@ -2,6 +2,13 @@
     "available_space": true,
     "content": [
         {
+            "id": "BIXzRH580mo",
+            "name": "La Cruz  - Rockolucion (album completo 1988)-BIXzRH580mo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d4/videos/La Cruz  - Rockolucion (album completo 1988)-BIXzRH580mo.mp4",
+            "size": 46.188539999999996,
+            "url": "https://github.com/circuitalmynds/music_d4/blob/main/videos/La Cruz  - Rockolucion (album completo 1988)-BIXzRH580mo.mp4?raw=true"
+        },
+        {
             "id": "hnWm7mkZj94",
             "name": "Hugo Avenda\u00f1o. Colecci\u00f3n Mexico #21 (Full Album_\u00c1lbum Completo)-hnWm7mkZj94.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d4/videos/Hugo Avenda\u00f1o. Colecci\u00f3n Mexico #21 (Full Album_\u00c1lbum Completo)-hnWm7mkZj94.mp4",
@@ -51,6 +58,13 @@
             "url": "https://github.com/circuitalmynds/music_d4/blob/main/videos/The Way You Look Tonight (From 'Follow the Fleet')-irrp2OFgz7o.mp4?raw=true"
         },
         {
+            "id": "a-CgFea_B9A",
+            "name": "Howl!-a-CgFea_B9A.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d4/videos/Howl!-a-CgFea_B9A.mp4",
+            "size": 11.200512,
+            "url": "https://github.com/circuitalmynds/music_d4/blob/main/videos/Howl!-a-CgFea_B9A.mp4?raw=true"
+        },
+        {
             "id": "mFEaRqkIWQI",
             "name": "Bidin' My Time-mFEaRqkIWQI.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d4/videos/Bidin' My Time-mFEaRqkIWQI.mp4",
@@ -65,11 +79,32 @@
             "url": "https://github.com/circuitalmynds/music_d4/blob/main/videos/Charles Aznavour     -     Les Deux Pigeons-Jsi9GLD_zYg.mp4?raw=true"
         },
         {
+            "id": "bAi65Fmbn0A",
+            "name": "Vaughan Williams - Symphony No. 3 \u201cA Pastoral Symphony\u201d (Haitink, London Philharmonic Orchestra)-bAi65Fmbn0A.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d4/videos/Vaughan Williams - Symphony No. 3 \u201cA Pastoral Symphony\u201d (Haitink, London Philharmonic Orchestra)-bAi65Fmbn0A.mp4",
+            "size": 66.643267,
+            "url": "https://github.com/circuitalmynds/music_d4/blob/main/videos/Vaughan Williams - Symphony No. 3 \u201cA Pastoral Symphony\u201d (Haitink, London Philharmonic Orchestra)-bAi65Fmbn0A.mp4?raw=true"
+        },
+        {
+            "id": "zwuMRRnlpa8",
+            "name": "Philip Oakey & Giorgio Moroder - Together In Electric Dreams (HQ)-zwuMRRnlpa8.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d4/videos/Philip Oakey & Giorgio Moroder - Together In Electric Dreams (HQ)-zwuMRRnlpa8.mp4",
+            "size": 2.390843,
+            "url": "https://github.com/circuitalmynds/music_d4/blob/main/videos/Philip Oakey & Giorgio Moroder - Together In Electric Dreams (HQ)-zwuMRRnlpa8.mp4?raw=true"
+        },
+        {
             "id": "AjuoiBj1rP8",
             "name": "Sing Me A Swing Song (And Let Me Dance)-AjuoiBj1rP8.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d4/videos/Sing Me A Swing Song (And Let Me Dance)-AjuoiBj1rP8.mp4",
             "size": 1.952936,
             "url": "https://github.com/circuitalmynds/music_d4/blob/main/videos/Sing Me A Swing Song (And Let Me Dance)-AjuoiBj1rP8.mp4?raw=true"
+        },
+        {
+            "id": "ws9hsK2Sw4g",
+            "name": "I'd Rather Lead a Band (From 'Follow the Fleet')-ws9hsK2Sw4g.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d4/videos/I'd Rather Lead a Band (From 'Follow the Fleet')-ws9hsK2Sw4g.mp4",
+            "size": 3.628406,
+            "url": "https://github.com/circuitalmynds/music_d4/blob/main/videos/I'd Rather Lead a Band (From 'Follow the Fleet')-ws9hsK2Sw4g.mp4?raw=true"
         },
         {
             "id": "uC5-x15aCjU",
@@ -93,5 +128,5 @@
             "url": "https://github.com/circuitalmynds/music_d4/blob/main/videos/Berlioz - Le corsaire, overture, Op 21 - J\u00e4rvi-d7kez0F0UJ4.mp4?raw=true"
         }
     ],
-    "total_size": 228.333754
+    "total_size": 358.38532200000003
 }
