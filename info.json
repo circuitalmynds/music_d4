@@ -2,6 +2,13 @@
     "available_space": true,
     "content": [
         {
+            "id": "wTzh0NKIOkE",
+            "name": "Giorgio Gaslini \u200e\u2013 Masks (1992 - Album)-wTzh0NKIOkE.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d4/videos/Giorgio Gaslini \u200e\u2013 Masks (1992 - Album)-wTzh0NKIOkE.mp4",
+            "size": 88.97747,
+            "url": "https://github.com/circuitalmynds/music_d4/blob/main/videos/Giorgio Gaslini \u200e\u2013 Masks (1992 - Album)-wTzh0NKIOkE.mp4?raw=true"
+        },
+        {
             "id": "BIXzRH580mo",
             "name": "La Cruz  - Rockolucion (album completo 1988)-BIXzRH580mo.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d4/videos/La Cruz  - Rockolucion (album completo 1988)-BIXzRH580mo.mp4",
@@ -42,6 +49,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/d4/videos/Los Secretos DVD Sinf\u00f3nico - Aunque t\u00fa no lo sepas - Cambio de Planes-Pm5L30mPrBI.mp4",
             "size": 22.051868,
             "url": "https://github.com/circuitalmynds/music_d4/blob/main/videos/Los Secretos DVD Sinf\u00f3nico - Aunque t\u00fa no lo sepas - Cambio de Planes-Pm5L30mPrBI.mp4?raw=true"
+        },
+        {
+            "id": "78b-n9082OM",
+            "name": "Patrick Dempsey Juggling (Full Version)-78b-n9082OM.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d4/videos/Patrick Dempsey Juggling (Full Version)-78b-n9082OM.mp4",
+            "size": 10.745014999999999,
+            "url": "https://github.com/circuitalmynds/music_d4/blob/main/videos/Patrick Dempsey Juggling (Full Version)-78b-n9082OM.mp4?raw=true"
         },
         {
             "id": "OEn0_9VcneY",
@@ -100,6 +114,13 @@
             "url": "https://github.com/circuitalmynds/music_d4/blob/main/videos/Sing Me A Swing Song (And Let Me Dance)-AjuoiBj1rP8.mp4?raw=true"
         },
         {
+            "id": "AXIUSt07b5w",
+            "name": "Liszt - Ann\u00e9es de p\u00e8lerinage II, S. 161 - VI. Sonetto 123 del Petrarca-AXIUSt07b5w.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d4/videos/Liszt - Ann\u00e9es de p\u00e8lerinage II, S. 161 - VI. Sonetto 123 del Petrarca-AXIUSt07b5w.mp4",
+            "size": 4.580611,
+            "url": "https://github.com/circuitalmynds/music_d4/blob/main/videos/Liszt - Ann\u00e9es de p\u00e8lerinage II, S. 161 - VI. Sonetto 123 del Petrarca-AXIUSt07b5w.mp4?raw=true"
+        },
+        {
             "id": "ws9hsK2Sw4g",
             "name": "I'd Rather Lead a Band (From 'Follow the Fleet')-ws9hsK2Sw4g.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d4/videos/I'd Rather Lead a Band (From 'Follow the Fleet')-ws9hsK2Sw4g.mp4",
@@ -128,5 +149,5 @@
             "url": "https://github.com/circuitalmynds/music_d4/blob/main/videos/Berlioz - Le corsaire, overture, Op 21 - J\u00e4rvi-d7kez0F0UJ4.mp4?raw=true"
         }
     ],
-    "total_size": 358.38532200000003
+    "total_size": 462.68841799999996
 }
