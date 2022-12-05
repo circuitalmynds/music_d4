@@ -23,6 +23,13 @@
             "url": "https://github.com/circuitalmynds/music_d4/blob/main/videos/Joseph Haydn - Piano Trio No. 39 in G major 'Gypsy', Hob. XV_25 (Trio Wanderer)-DAtgVw5y1Vo.mp4?raw=true"
         },
         {
+            "id": "oGvXgOg7rmA",
+            "name": "Camionero (Caminhoneiro) (Gentle On My Mind)-oGvXgOg7rmA.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d4/videos/Camionero (Caminhoneiro) (Gentle On My Mind)-oGvXgOg7rmA.mp4",
+            "size": 7.790785,
+            "url": "https://github.com/circuitalmynds/music_d4/blob/main/videos/Camionero (Caminhoneiro) (Gentle On My Mind)-oGvXgOg7rmA.mp4?raw=true"
+        },
+        {
             "id": "hnWm7mkZj94",
             "name": "Hugo Avenda\u00f1o. Colecci\u00f3n Mexico #21 (Full Album_\u00c1lbum Completo)-hnWm7mkZj94.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d4/videos/Hugo Avenda\u00f1o. Colecci\u00f3n Mexico #21 (Full Album_\u00c1lbum Completo)-hnWm7mkZj94.mp4",
@@ -72,11 +79,32 @@
             "url": "https://github.com/circuitalmynds/music_d4/blob/main/videos/I'd Rather Charleston-OEn0_9VcneY.mp4?raw=true"
         },
         {
+            "id": "YgHDw1A0pWw",
+            "name": "Unofficial Spokesman (With Dialogue)-YgHDw1A0pWw.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d4/videos/Unofficial Spokesman (With Dialogue)-YgHDw1A0pWw.mp4",
+            "size": 9.810398,
+            "url": "https://github.com/circuitalmynds/music_d4/blob/main/videos/Unofficial Spokesman (With Dialogue)-YgHDw1A0pWw.mp4?raw=true"
+        },
+        {
             "id": "irrp2OFgz7o",
             "name": "The Way You Look Tonight (From 'Follow the Fleet')-irrp2OFgz7o.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d4/videos/The Way You Look Tonight (From 'Follow the Fleet')-irrp2OFgz7o.mp4",
             "size": 4.562612,
             "url": "https://github.com/circuitalmynds/music_d4/blob/main/videos/The Way You Look Tonight (From 'Follow the Fleet')-irrp2OFgz7o.mp4?raw=true"
+        },
+        {
+            "id": "Ev2I0jsswb0",
+            "name": "Keyboard Sonata No. 17 in E-Flat Major, Hob. XVI, Es 2 - III. Menuetto-Ev2I0jsswb0.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d4/videos/Keyboard Sonata No. 17 in E-Flat Major, Hob. XVI, Es 2 - III. Menuetto-Ev2I0jsswb0.mp4",
+            "size": 3.3236809999999997,
+            "url": "https://github.com/circuitalmynds/music_d4/blob/main/videos/Keyboard Sonata No. 17 in E-Flat Major, Hob. XVI, Es 2 - III. Menuetto-Ev2I0jsswb0.mp4?raw=true"
+        },
+        {
+            "id": "9oQVdOb7zJ4",
+            "name": "Liszt - A Dante Symphony, S.109 - 1. Inferno-9oQVdOb7zJ4.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d4/videos/Liszt - A Dante Symphony, S.109 - 1. Inferno-9oQVdOb7zJ4.mp4",
+            "size": 13.882195,
+            "url": "https://github.com/circuitalmynds/music_d4/blob/main/videos/Liszt - A Dante Symphony, S.109 - 1. Inferno-9oQVdOb7zJ4.mp4?raw=true"
         },
         {
             "id": "a-CgFea_B9A",
@@ -161,7 +189,14 @@
             "path": "/home/alanmatzumiya/Videos/containers/d4/videos/Berlioz - Le corsaire, overture, Op 21 - J\u00e4rvi-d7kez0F0UJ4.mp4",
             "size": 31.748329,
             "url": "https://github.com/circuitalmynds/music_d4/blob/main/videos/Berlioz - Le corsaire, overture, Op 21 - J\u00e4rvi-d7kez0F0UJ4.mp4?raw=true"
+        },
+        {
+            "id": "FMwJSI7qC3U",
+            "name": "Franz Liszt - Dante Symphony (1856)-FMwJSI7qC3U.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d4/videos/Franz Liszt - Dante Symphony (1856)-FMwJSI7qC3U.mp4",
+            "size": 71.21727899999999,
+            "url": "https://github.com/circuitalmynds/music_d4/blob/main/videos/Franz Liszt - Dante Symphony (1856)-FMwJSI7qC3U.mp4?raw=true"
         }
     ],
-    "total_size": 574.7902520000001
+    "total_size": 680.8145900000002
 }
